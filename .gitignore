@@ -6,3 +6,7 @@ journaux/
 bots.json
 marche.json
 runs/
+
+# secrets, if ever any: never committed
+.env
+.env.*
