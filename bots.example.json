@@ -1,0 +1,4 @@
+{ "bots": [
+  { "id": "1-ANTHROPIC", "marche": "ANTHROPIC", "joueur": "rsi", "stop": 0.6, "debut": "2026-09-29T22:30:00Z" },
+  { "id": "2-ANTHROPIC", "marche": "ANTHROPIC", "joueur": "bollinger", "reglages": { "period": 20, "k": 2 }, "regle": "retour", "stop": 0.4, "part": 0.9, "debut": "2026-09-29T22:30:00Z" }
+] }

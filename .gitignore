@@ -1,0 +1,8 @@
+node_modules
+dist
+# a run's files: one journal per bot, and the output folder's bots.json / marche.json
+journaux/
+*.jsonl
+bots.json
+marche.json
+runs/

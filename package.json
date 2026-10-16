@@ -1,0 +1,20 @@
+{
+  "name": "radinus",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Radinus: trading bots on paper, replayed on recorded prints or run live on Lighter's public data",
+  "scripts": {
+    "typecheck": "tsc",
+    "build": "tsc && node build.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/ws": "^8.18.2",
+    "esbuild": "^0.28.1",
+    "typescript": "~6.0.2"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
